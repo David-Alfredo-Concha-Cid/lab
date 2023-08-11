@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Proyecto Departamento </h1>
+  <h1>Proyecto Laboratorio </h1>
 </div>
 
 ## _Antecedentes_
